@@ -23,13 +23,6 @@ This tool does *not* send any data, connect to inboxes, or perform external scan
 
 ---
 
-## Badges
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
-
----
 
 ## Usage
 Run the script and enter any email to analyze:
@@ -54,3 +47,4 @@ License
 
 MIT License
 Feel free to modify and improve the tool.
+
