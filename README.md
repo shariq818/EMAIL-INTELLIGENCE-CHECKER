@@ -27,7 +27,7 @@ This tool does *not* send any data, connect to inboxes, or perform external scan
 ## Usage
 Run the script and enter any email to analyze:
 
-```bash
+
 python EMAIL_VALIDATOR.py
 
 The tool will request the email address and provide an instant breakdown.
@@ -47,4 +47,5 @@ License
 
 MIT License
 Feel free to modify and improve the tool.
+
 
